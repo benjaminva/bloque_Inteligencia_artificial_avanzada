@@ -1,0 +1,2 @@
+# bloque_Inteligencia_artificial_avanzada
+Ejemplos y ejercicios para Inteligencia artificial avanzada
